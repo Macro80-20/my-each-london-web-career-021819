@@ -12,5 +12,5 @@ else
 end
 end
 
-my_each(collection) do
+my_each([1,2,3,4]) do
   |element| element end
