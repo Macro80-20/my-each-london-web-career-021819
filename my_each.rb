@@ -13,4 +13,4 @@ end
 end
 
 my_each(collection) do
-  |element| puts element end
+  |element| element end
